@@ -1,12 +1,12 @@
 import React from 'react';
 import MainLayout from "../../components/MainLayout";
 
-const Posts = () => {
+const About = () => {
     return (
-        <MainLayout title={"Posts"}>
-            <h1>POSTS</h1>
+        <MainLayout title={"About"}>
+            <h1>ABOUT</h1>
         </MainLayout >
     );
 };
 
-export default Posts;
+export default About;
